@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "googletagmanager.com",
+        "doubleclick.net",
+        "google-analytics.com",
+        "gstatic.com",
+        "googleapis.com",
+        "googleapis.cn",
+        "app-measurement.com",
+        "recaptcha.net",
+        "googleadservices.com",
+        "pki.goog",
+        "google.com"
+      ],
+      "domain_keyword": [
+        "connectivitycheck"
+      ]
+    } 
+  ]
+}
