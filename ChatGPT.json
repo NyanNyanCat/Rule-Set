@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openai.com",
+        "openai.com",
+        "ai.com",
+        "auth0.com",
+        "deepl.com",
+        "sentry.io"
+      ]
+    } 
+  ]
+}
