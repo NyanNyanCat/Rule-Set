@@ -1,2 +1,2 @@
-Rules for sing-box
+Rules for sing-box.
 Format:source
