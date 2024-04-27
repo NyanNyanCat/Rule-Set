@@ -9,6 +9,9 @@
                 "auth0.com",
                 "deepl.com",
                 "sentry.io"
+            ],
+            "domain_keyword": [
+                "openaicom-api"
             ]
         }
     ]
