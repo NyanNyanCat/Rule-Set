@@ -1,13 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "pixiv.net",
-        "pximg.net",
-        "twimg.com",
-        "pixivsketch.net"
-      ]
-    } 
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "pixiv.net",
+                "pximg.net",
+                "twimg.com",
+                "pixivsketch.net"
+            ]
+        }
+    ]
 }
