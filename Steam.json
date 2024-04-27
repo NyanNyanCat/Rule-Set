@@ -4,12 +4,12 @@
         {
             "domain_suffix": [
                 "steamcommunity.com",
-				"steamstatic.com",
-				"steamgames.com",
-				"steamusercontent.com",
-				"steamserver.net",
-				"steamcontent.com",
-				"akamaihd.net",
+                "steamstatic.com",
+                "steamgames.com",
+                "steamusercontent.com",
+                "steamserver.net",
+                "steamcontent.com",
+                "akamaihd.net",
                 "steampowered.com"
             ],
             "ip_cidr": [
